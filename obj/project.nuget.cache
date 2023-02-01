@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+7uQVxbc2U/sRo3NqkGx9w1Dnm9L8m7k3lZHMHKtW8U2GUMVn880WqkETlhLKxWWAuy8J3BrirM8GsXRjX4XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kikin\\Downloads\\Vegetables2\\Vegetables2\\Vegetables2\\Vegetables2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kikin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
